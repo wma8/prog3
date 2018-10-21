@@ -15,7 +15,6 @@ var triangleBuffer; // this contains indices into vertexBuffer in triples
 var triBufferSize; // the number of indices in the triangle buffer
 var vertexPositionAttrib; // where to put position for vertex shader
 
-
 // ASSIGNMENT HELPER FUNCTIONS
 
 // get the JSON file from the passed URL
